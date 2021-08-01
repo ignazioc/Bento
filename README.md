@@ -2,13 +2,21 @@
 ![image](assets/img/Header.png)
 
 <div align="center">
-    <b>🍱 Minimalist, elegant and simple startpage inspired by the Bento box!</b>
+    <b>🍱 Elegant and simple startpage with fancy blur. Bento fork!</b>
+    <br />
+    <br />
+    <b>The name, Vento, means "wind" in Italian.</b>
+    <br />
+    <b>By changing only one letter in name (and only a few lines in code) I've created something refreshing. Just like wind.</b>
 </div>
 
 <br />
 <br />
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/migueravila)
+[Send me crypto!](https://arturro43.github.io/donateme.txt)
+
+
+Visit original repo - [Bento](https://github.com/migueravila/Bento)
 
 <br />
 
@@ -76,7 +84,7 @@ To change the default name, the greetings and if you want to have an image backg
 
 ```
 
-> You cah change the background by substituting the `background.jpg` file in `assets` folder.
+> You can change the background by substituting the `background.jpg` file in `assets` folder.
 
 ![](assets/img/previewbg.png)
 
