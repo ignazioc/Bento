@@ -61,8 +61,8 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Notions',
+        link: 'https://ignazioc.github.io/Bento/',
       },
       {
         name: 'Classic',
